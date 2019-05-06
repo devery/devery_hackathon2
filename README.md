@@ -5,7 +5,7 @@ Please read and follow the instructions carefully to be able to properly enter t
 # How to enter
 
 1. Join the Hackathon Slack Channel located <a target="_blank" href='https://join.slack.com/t/deveryhackathon/shared_invite/enQtNDMyOTg2NDIzMDA4LTIwZWJhYzNjMDY1OWI4ODNlN2JmYTJjZTFiNjQ4OTMzMWQyNTZkMzU3NGNjOGUyYzA5MWMzYzM4ZGQ4ODVhODA'>here</a>. <br>
-2. Form teams of 1 - 5 people. <br>
+2. Form teams of 1 - 3 people. <br>
 3. Have one team member open up a team issue in the hackathon_entries Github page.<br>
 4. Read and understand the documentation of DeveryJS.<br>
 5. Formulate your ideas and start coding.<br>
@@ -21,7 +21,7 @@ Team Contact Email - \<team@email.com> <br>
 
 Project Pitch - \<300 word pitch of your project> <br>
 Project Repository - \<Repository link to your project> <br>
-Video Recording of Application - \<Link to visual recording of application> <br>
+Video Recording of Application (optional) - \<Link to visual recording of application> <br>
 
 # DeveryJS
 
